@@ -31,10 +31,10 @@ define('ABSPATH', dirname(__FILE__) . '/');
  * Enter the domain name of the web site
  */
 define('ABSURL', 'http://localhost/');
-define('UPLOADURL','http://localhost/marketplace/m_content/uploads/');
+define('UPLOADURL','http://localhost/inisiapa/m_content/uploads/');
 /* Install URL
  * Enter the URL where the script is installed
  */
-define('JURL', 'http://localhost/marketplace/');
+define('JURL', 'http://localhost/inisiapa/');
 
 ?>

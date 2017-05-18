@@ -7,7 +7,7 @@
 //	if ( file_exists ( $theme_path . 'functions.php' ) ) {
 //		include( $theme_path . 'functions.php' );
 //	}
-    $url = new simpleUrl('/marketplace');
+    $url = new simpleUrl('/inisiapa');
     if(!$url->segment(1))
         $page = 'home';
     else
